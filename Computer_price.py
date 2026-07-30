@@ -10,7 +10,7 @@ st.set_page_config(page_title="Computer Price Predictor", page_icon="💻", layo
 
 # ---------- 1. LOAD ----------
 @st.cache_data
-def load_data(path="Data/Computers.csv"):
+def load_data(path="Computers.csv"):
     df = pd.read_csv(path)
     return df
 

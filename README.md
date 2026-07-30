@@ -1,5 +1,7 @@
 # 💻 Computer Price Predictor
 
+🔗 **[Try the live app] https://computer-price-predictor---multiplelinearregression-jokcgwuuos.streamlit.app/
+
 A Streamlit app that predicts computer prices using multiple regression, and explains how the underlying model makes its predictions.
 
 ## What it does

@@ -1,4 +1,4 @@
-# 💻 Computer Price Predictor
+# 💻 Harware Market Value Predictor
 
 A Streamlit app that predicts computer prices using multiple regression, and explains how the underlying model makes its predictions.
 

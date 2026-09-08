@@ -25,5 +25,3 @@ Built as part of a multiple regression assignment analyzing the Computers.csv da
 - pandas, numpy
 - scikit-learn (evaluation metrics)
 - matplotlib
-
-## Project structure
